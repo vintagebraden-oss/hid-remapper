@@ -4,7 +4,7 @@
 #include "our_descriptor.h"
 #include "ps_auth.h"
 #include "remapper.h"
-
+// PS5 keyboard build
 const uint8_t REPORT_ID_MOUSE = 1;
 const uint8_t REPORT_ID_KEYBOARD = 2;
 const uint8_t REPORT_ID_CONSUMER = 3;
